@@ -1,0 +1,131 @@
+@use '../abstracts/index' as *;
+
+.headerContainer {
+    height: 360px;
+    transition: background-image 0.5s ease-in-out;
+    z-index: 1;
+    background-repeat: no-repeat;
+
+    @include breakpoint(tablet) {
+        height: 400px;
+        background-size: cover;
+        background-position: center top -15px;
+    }
+
+    @include breakpoint(desktop) {
+        height: 550px;
+        width: 840px;
+        
+    }
+}
+
+.header {
+    padding: 48px 24px;
+    position: relative;
+
+    @include breakpoint(tablet) {
+        padding: 48px 64px;
+    }
+
+    @include breakpoint(desktop) {
+        padding: 64px;
+    }
+
+    &_icons {
+        display: flex;
+        gap: 115px;
+
+        @include breakpoint(tablet) {
+            gap: 270px;
+        }
+
+        @include breakpoint(desktop) {
+            gap: 56px;
+            align-items: center;
+        }
+
+        &-hamburger {
+            align-self: flex-start;
+            cursor: pointer;
+
+            @include breakpoint(desktop) {
+                display: none;
+            }
+        }
+    
+        &-logo {
+            align-self: center;
+            cursor: pointer;
+        }
+
+        &-nav {
+            display: none;
+
+            @include breakpoint(desktop) {
+                display: flex;
+                flex-direction: row;
+                gap: 32px;
+                cursor: pointer;
+            }
+
+            p {
+                color: white;
+            }
+        }
+    }
+
+    &_arrows {
+        display: flex;
+        align-items: center;
+        position: absolute;
+        top: 304px;
+        right: 0;
+
+        @include breakpoint(tablet) {
+            top: 320px;
+        }
+
+        @include breakpoint(desktop) {
+            top: 455px;
+            right: 441px;
+        }
+
+        &-left {
+            @include arrow();
+            position: relative;
+            left: 1px;
+
+            img {
+                width: 9px;
+                height: 17px;
+
+                @include breakpoint(tablet) {
+                    width: 12px;
+                    height: 24px;
+                }
+            }
+        }
+
+        &-right {
+            @include arrow();
+
+            img {
+                width: 9px;
+                height: 17px;
+
+                @include breakpoint(tablet) {
+                    width: 12px;
+                    height: 24px;
+                }
+            }
+        }
+    }
+
+}
+
+.flex-desktop {
+    @include breakpoint(desktop) {
+        display: flex;
+        height: 518px;
+    }
+}

@@ -1,0 +1,45 @@
+@use '../abstracts/index' as *;
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    width: 87%;
+    padding: 47px 24px;
+    position: fixed;
+    z-index: 101;
+    background-color: white;
+
+    @include breakpoint(tablet) {
+        width: 94%;
+    }
+
+    &_close {
+        width: 16px;
+        height: 16px;
+    }
+
+    &_nav {
+        display: flex;
+        gap: 32px;
+
+        &-item {
+            color: black;
+        }
+    }
+}
+
+.hidden {
+    display: none;
+}
+
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 100;
+    transition: opacity 0.3s ease;
+}
