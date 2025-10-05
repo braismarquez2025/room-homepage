@@ -26,7 +26,7 @@ He comprendido bien el uso del contexto gracias a este proyecto! Me parece súpe
 
 ### 📈 Desarrollo continuo
 Lo que más me ha costado ha sido diseñar la página en resolución desktop, ya que siempre surje algún que otro desajuste. Me ha gustado el resultado excepto porque ha quedado un pequeño scroll vertical, el cual no he conseguido eliminar, si alguien me puede ayudar me serviría mucho el apoyo ya que no le he encontrado solución.
-Me encantaría recibir críticas constructivas sobre como puedo mejorar mi código. Cualquier feedback se agradece!
+Me encantaría recibir críticas constructivas sobre como puedo mejorar mi código. Cualquier feedback se agradece! 🙌
 
 
 ### ✌️ Autor 

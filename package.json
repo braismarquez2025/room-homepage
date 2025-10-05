@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://braismarquez2025.github.io/room-homepage",
+  "homepage": "https://braismarquez2025.io/room-homepage",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
