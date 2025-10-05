@@ -1,16 +1,36 @@
-# React + Vite
+# 🏙️ Room Homepage
+Esta es una solución al [desafío Room Homepage en Frontend Mentor](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq). Los desafíos de Frontend Mentor ayudan a mejorar tus habilidades de programación creando proyectos realistas.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## 🔎 Descripción general
+Diseño responsive para resolución mobile(375px), tablet(768px) y desktop(1440px)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 📷 Captura de pantalla
+![](./src/assets/images/)
 
-## React Compiler
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+### 🔗 Links
+- [URL de la solucion]()
+- [URL del sitio en vivo]()
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Mi proceso
+
+### 🔧 Llevado a cabo con
+- React + Vite
+- Sass
+
+
+### 💡 Lo que aprendí
+He comprendido bien el uso del contexto gracias a este proyecto! Me parece súper útil ya que se necesita cierta información en distintos componentes. Un ejemplo de esto es el estado del menu, necesitamos saber si está abierto o está cerrado para activar el overlay, por ejemplo. El más claro son los distintos textos e imágenes que hacen falta a la hora de visualizar las distintas versiones de la página cuando el usuario clica en las fechas, menudo escándalo sería escribir esto en todos los componentes. 
+
+### 📈 Desarrollo continuo
+Lo que más me ha costado ha sido diseñar la página en resolución desktop, ya que siempre surje algún que otro desajuste. Me ha gustado el resultado excepto porque ha quedado un pequeño scroll vertical, el cual no he conseguido eliminar, si alguien me puede ayudar me serviría mucho el apoyo ya que no le he encontrado solución.
+Me encantaría recibir críticas constructivas sobre como puedo mejorar mi código. Cualquier feedback se agradece!
+
+
+### ✌️ Autor 
+- 💼 GitHub - https://github.com/braismarquez2025
+- ✉️ Gmail - braismarquez2003@gmail.com
+- 👤 Usuario de Frontend - [@braismarquez2025](https://www.frontendmentor.io/profile/braismarquez2025)
+- 🔗 LinkedIn - [Brais Márquez](https://www.linkedin.com/in/brais-m%C3%A1rquez-b133b7365/)365/)
