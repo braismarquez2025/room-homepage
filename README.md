@@ -6,12 +6,12 @@ Esta es una solución al [desafío Room Homepage en Frontend Mentor](https://www
 Diseño responsive para resolución mobile(375px), tablet(768px) y desktop(1440px)
 
 ### 📷 Captura de pantalla
-![](./src/assets/images/)
+![](./src/assets/images/room-homepage-10-06-2025_12_52_PM.png)
 
 
 ### 🔗 Links
-- [URL de la solucion]()
-- [URL del sitio en vivo]()
+- [URL de la solucion](https://www.frontendmentor.io/solutions/room-homepage-solution-UDqjxLxPjM)
+- [URL del sitio en vivo](https://braismarquez2025.github.io/room-homepage/)
 
 
 ## 🚀 Mi proceso
