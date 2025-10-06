@@ -25,7 +25,7 @@ Diseño responsive para resolución mobile(375px), tablet(768px) y desktop(1440p
 He comprendido bien el uso del contexto gracias a este proyecto! Me parece súper útil ya que se necesita cierta información en distintos componentes. Un ejemplo de esto es el estado del menu, necesitamos saber si está abierto o está cerrado para activar el overlay, por ejemplo. El más claro son los distintos textos e imágenes que hacen falta a la hora de visualizar las distintas versiones de la página cuando el usuario clica en las fechas, menudo escándalo sería escribir esto en todos los componentes. 
 
 ### 📈 Desarrollo continuo
-Lo que más me ha costado ha sido diseñar la página en resolución desktop, ya que siempre surje algún que otro desajuste. Me ha gustado el resultado excepto porque ha quedado un pequeño scroll vertical, el cual no he conseguido eliminar, si alguien me puede ayudar me serviría mucho el apoyo ya que no le he encontrado solución.
+Lo que más me ha costado ha sido diseñar la página en resolución desktop, ya que siempre surge algún que otro desajuste. Me ha gustado el resultado excepto porque ha quedado un pequeño scroll vertical, el cual no he conseguido eliminar, si alguien me puede ayudar me serviría mucho el apoyo ya que no le he encontrado solución.
 Me encantaría recibir críticas constructivas sobre como puedo mejorar mi código. Cualquier feedback se agradece! 🙌
 
 
