@@ -1,4 +1,4 @@
-# 🏙️ Room Homepage
+# 🏠 Room Homepage
 Esta es una solución al [desafío Room Homepage en Frontend Mentor](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq). Los desafíos de Frontend Mentor ayudan a mejorar tus habilidades de programación creando proyectos realistas.
 
 
