@@ -33,4 +33,4 @@ Me encantaría recibir críticas constructivas sobre como puedo mejorar mi códi
 - 💼 GitHub - https://github.com/braismarquez2025
 - ✉️ Gmail - braismarquez2003@gmail.com
 - 👤 Usuario de Frontend - [@braismarquez2025](https://www.frontendmentor.io/profile/braismarquez2025)
-- 🔗 LinkedIn - [Brais Márquez](https://www.linkedin.com/in/brais-m%C3%A1rquez-b133b7365/)365/)
+- 🔗 LinkedIn - [Brais Márquez](https://www.linkedin.com/in/brais-m%C3%A1rquez-b133b7365/)
